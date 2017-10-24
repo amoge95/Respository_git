@@ -1,0 +1,56 @@
+
+body {
+  font-size: 20px;
+  font-family: 'Forum', cursive;
+  background-color: gold;
+}
+
+
+/* HEADER */
+
+.header {
+  text-align: center;
+  padding: 50px 0 50px 0;
+  color: #363636;
+}
+
+h2 {
+  color: #575757;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto 30px;
+  border-radius: 5%;
+}
+
+h1 {
+  font-family: 'Forum', cursive;
+  font-size: 10em;
+}
+
+hr {
+  /* courtesy of css-tricks.com */
+  border: 0;
+  height: 1px;
+}
+
+h2 {
+  font-size: 8.5rem;
+  padding-bottom: 30px
+}
+
+.title-quote {
+  padding-left: 0%;
+  padding-right: 7.5%;
+}
+
+
+/* BODY */
+
+#body-text {
+  max-width: 100%;
+  overflow: auto;
+  font-size: 1em;
+}
